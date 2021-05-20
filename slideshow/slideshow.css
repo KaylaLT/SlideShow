@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+main {
+	display: flex;
+	justify-content: space-around;
+}
+
+img {
+	max-width: 200px;
+}
+
+button {
+	width: 200px;
+	height: 100px;
+}
